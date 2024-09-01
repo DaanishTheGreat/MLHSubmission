@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Data Display</title>
+    <link rel="stylesheet" th:href="@{/css/styleShow.css}" />
+</head>
+<body>
+    <h1>Data Display</h1>
+
+    <!-- Dynamic Sections -->
+    <div th:if="${dataModel != null}">
+        <div th:each="categoryEntry : ${dataModel.categories.entrySet()}">
+            <h2 th:text="${categoryEntry.key.replace('Data', '')}">Category</h2>
+            <div th:each="subCategoryEntry : ${categoryEntry.value.entrySet()}">
+                <h3 th:text="${subCategoryEntry.key}">Subcategory</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Type</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr th:each="fieldEntry : ${subCategoryEntry.value.entrySet()}">
+                            <td th:text="${fieldEntry.value.title}">Title</td>
+                            <td th:text="${fieldEntry.value.type}">Type</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

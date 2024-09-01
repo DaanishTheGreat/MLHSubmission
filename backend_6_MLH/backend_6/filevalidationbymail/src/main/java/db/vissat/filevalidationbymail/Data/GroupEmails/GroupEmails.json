@@ -1,0 +1,14 @@
+{
+    "GroupEmailToyota":
+    {
+        "0": "toyota1@something.com",
+        "1": "toyota2@something.com",
+        "2": "toyota2@something.com"
+    },
+    "GroupEmailHonda":
+    {
+        "0": "Honda1@something.com",
+        "1": "Honda2@something.com",
+        "2": "Honda2@something.com"
+    }
+}

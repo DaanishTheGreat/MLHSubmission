@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Form</title>
+    <link rel="stylesheet" th:href="@{/css/styleAdd.css}" />
+    <script th:src="@{/js/FormatConfig.js}"></script>
+</head>
+<body>
+    <h1>File Details Form</h1>
+    <form action="#" th:action="@{/ShowSubmit}" th:object="${inputData}" method="post">
+        <div class="section">
+            <label for="fileName">File Name:</label>
+            <input type="text" id="fileName" th:field="*{fileName}" />
+        </div>
+        <div class="section">
+            <label for="filePattern">File Pattern:</label>
+            <input type="text" id="filePattern" th:field="*{filePattern}" />
+        </div>
+        <div class="section">
+            <label for="fileFormat">File Format:</label>
+            <input type="text" id="fileFormat" th:field="*{fileFormat}" />
+        </div>
+        <div class="section">
+            <label for="fileType">File Type:</label>
+            <input type="text" id="fileType" th:field="*{fileType}" />
+        </div>
+        <div class="section">
+            <label for="fileSubtype">File Subtype:</label>
+            <input type="text" id="fileSubtype" th:field="*{fileSubtype}" />
+        </div>
+        <h2>Field Details</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Field Name</th>
+                    <th>Field Type</th>
+                </tr>
+            </thead>
+            <tbody id="fieldTable">
+                <tr th:each="field, iterStat : *{fields}">
+                    <td>
+                        <input type="text" th:field="*{fields[__${iterStat.index}__].fieldName}" />
+                    </td>
+                    <td>
+                        <input type="text" th:field="*{fields[__${iterStat.index}__].fieldType}" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <button type="button" onclick="addFieldRow()">Add Row</button>
+        <div>
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+</body>
+</html>

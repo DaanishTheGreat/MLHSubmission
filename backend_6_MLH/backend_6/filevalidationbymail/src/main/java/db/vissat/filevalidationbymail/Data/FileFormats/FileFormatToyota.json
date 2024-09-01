@@ -1,0 +1,82 @@
+{
+  "Expense" : {
+    "ExpenseFile" : {
+      "0" : {
+        "Type" : "Text",
+        "Title" : "Index"
+      },
+      "1" : {
+        "Type" : "Text",
+        "Title" : "Service Name"
+      },
+      "2" : {
+        "Type" : "StandardDate",
+        "Title" : "Service From Date"
+      },
+      "3" : {
+        "Type" : "StandardDate",
+        "Title" : "Service To Date"
+      },
+      "4" : {
+        "Type" : "Int",
+        "Title" : "Hours"
+      },
+      "5" : {
+        "Type" : "MoneyFloat",
+        "Title" : "Rate"
+      },
+      "UploadFrequency" : {
+        "FrequencyType" : "Weekly",
+        "FrequencyDetails" : "Friday",
+        "DateLastUploaded" : "",
+        "EmailInfo" : "daanish.bawan@vissatsolutions.com:daanishbawan@outlook.com"
+      }
+    }
+  },
+  "FileNameToyota" : {
+    "FileSubtypeToyota" : {
+      "0" : {
+        "Type" : "number",
+        "Title" : "FieldName"
+      },
+      "UploadFrequency" : {
+        "FrequencyType" : "Weekly",
+        "FrequencyDetails" : "Friday",
+        "DateLastUploaded" : "07/25/2024",
+        "EmailInfo" : "daanish.bawan@vissatsolutions.com:daanishbawan@outlook.com"
+      }
+    }
+  },
+  "TestMonthFileName" : {
+    "FileSubtypeHondaTestMonth" : {
+      "0" : {
+        "Type" : "number",
+        "Title" : "FieldName"
+      },
+      "UploadFrequency" : {
+        "FrequencyType" : "Monthly",
+        "FrequencyDetails" : "10",
+        "DateLastUploaded" : "07/28/2024",
+        "EmailInfo" : "daanishbawan@outlook.com"
+      }
+    }
+  },
+  "FileName" : {
+    "ExpenseFile" : {
+      "0" : {
+        "Type" : "number",
+        "Title" : "FieldName"
+      },
+      "1" : {
+        "Type" : "text",
+        "Title" : "FieldName2"
+      },
+      "UploadFrequency" : {
+        "FrequencyType" : "Weekly",
+        "FrequencyDetails" : "Thursday:Saturday",
+        "DateLastUploaded" : "08/06/2024",
+        "EmailInfo" : "daanishbawan@outlook.com:daanish.bawan@vissatsolutions.com"
+      }
+    }
+  }
+}

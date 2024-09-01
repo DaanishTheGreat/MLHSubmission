@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Result</title>
+    <link rel="stylesheet" th:href="@{/css/styleShow.css}" />
+</head>
+<body>
+    <h1>Submitted Data</h1>
+    <p>File Name: <span th:text="${inputData.fileName}"></span></p>
+    <p>File Pattern: <span th:text="${inputData.filePattern}"></span></p>
+    <p>File Format: <span th:text="${inputData.fileFormat}"></span></p>
+    <p>File Type: <span th:text="${inputData.fileType}"></span></p>
+    <p>File Subtype: <span th:text="${inputData.fileSubtype}"></span></p>
+    <h2>Field Details</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Field Name</th>
+                <th>Field Type</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr th:each="field : ${inputData.fields}">
+                <td><span th:text="${field.fieldName}"></span></td>
+                <td><span th:text="${field.fieldType}"></span></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

@@ -1,0 +1,76 @@
+07 August 2024 02:20 File Name: FileSubtypeHonda.xlsx File Results: Valid Format
+07 August 2024 02:22 File Name: FileSubtypeHonda.xlsx File Results: Valid Format
+07 August 2024 02:24 File Name: FileSubtypeToyota.xlsx File Results: Valid Format
+07 August 2024 02:28 File Name: FileSubtypeToyota.xlsx File Results: Valid Format
+07 August 2024 02:35 File Name: FileSubtypeToyota.xlsx File Results: Valid Format
+07 August 2024 02:36 File Name: FileSubtypeToyota.xlsx File Results: Valid Format
+07 August 2024 02:39 File Name: FileSubtypeToyota.xlsx File Results: Valid Format
+07 August 2024 02:40 File Name: FileSubtypeToyota.xlsx File Results: Valid Format
+07 August 2024 02:43 File Name: FileSubtypeToyota.xlsx File Results: Valid Format
+09 August 2024 02:44 File Name: FileSubtypeToyota.xlsx File Results: Valid Format
+09 August 2024 02:47 File Name: FileSubtypeToyota.xlsx File Results: Valid Format
+09 August 2024 02:48 File Name: FileSubtypeToyota.xlsx File Results: Valid Format
+09 August 2024 02:50 File Name: FileSubtypeToyota.xlsx File Results: Valid Format
+09 August 2024 03:08 File Name: FileSubtypeToyota.xlsx File Results: Valid Format
+09 August 2024 03:11 File Name: FileSubtypeToyota.xlsx File Results: Valid Format
+12 August 2024 10:57 File Name: FileSubtypeToyota.xlsx File Results: Valid Format
+12 August 2024 10:58 File Name: FileSubtypeToyota.xlsx File Results: Valid Format
+12 August 2024 10:59 File Name: NoExist.xlsx File Results: Valid Format
+12 August 2024 11:17 File Name: NoExist.xlsx File Results: Valid Format
+12 August 2024 11:21 File Name: NoExist.xlsx File Results: Valid Format
+12 August 2024 11:22 File Name: FileSubtypeToyota.xlsx File Results: Valid Format
+12 August 2024 12:27 File Name: FileSubtypeToyota.xlsx File Results: Valid Format
+14 August 2024 11:43 File Name: Daily Sales Numbers_8132024.xlsx File Results: Valid Format
+14 August 2024 13:11 File Name: Weekly Admin Cost_08142024.xlsx File Results: Valid Format
+14 August 2024 13:12 File Name: Weekly Admin Cost_8102024.xlsx File Results: Valid Format
+14 August 2024 13:17 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: Valid Format
+14 August 2024 13:28 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: :InvalidInt:1:2:InvalidInt:2:2:InvalidInt:3:2:InvalidInt:4:2:InvalidInt:5:2
+14 August 2024 13:43 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: :InvalidInt:1:2:InvalidInt:2:2:InvalidInt:3:2:InvalidInt:4:2:InvalidInt:5:2
+14 August 2024 13:47 File Name: Weekly Admin Cost_08142024.xlsx File Results: Valid Format
+14 August 2024 13:48 File Name: Weekly Admin Cost_08142024.xlsx File Results: Valid Format
+14 August 2024 13:51 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: :InvalidInt:1:2:InvalidInt:2:2:InvalidInt:3:2:InvalidInt:4:2:InvalidInt:5:2
+14 August 2024 13:51 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: :InvalidInt:1:2:InvalidInt:2:2:InvalidInt:3:2:InvalidInt:4:2:InvalidInt:5:2
+14 August 2024 14:14 File Name: Weekly Admin Cost_8102024.xlsx File Results: Valid Format
+14 August 2024 14:14 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: InvalidInt:1:2:%InvalidInt:2:2:%InvalidInt:3:2:%InvalidInt:4:2:%InvalidInt:5:2
+14 August 2024 14:14 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: InvalidInt:1:2:%InvalidInt:2:2:%InvalidInt:3:2:%InvalidInt:4:2:%InvalidInt:5:2
+14 August 2024 14:20 File Name: Weekly Admin Cost_8102024.xlsx File Results: Valid Format
+14 August 2024 14:21 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: InvalidInt:1:2:%InvalidInt:2:2:%InvalidInt:3:2:%InvalidInt:4:2:%InvalidInt:5:2
+14 August 2024 14:21 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: InvalidInt:1:2:%InvalidInt:2:2:%InvalidInt:3:2:%InvalidInt:4:2:%InvalidInt:5:2
+14 August 2024 14:22 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: :InvalidDate:1:0:InvalidDate:2:0:InvalidDate:3:0:InvalidDate:4:0:InvalidDate:5:0InvalidInt:1:2:%InvalidInt:2:2:%InvalidInt:3:2:%InvalidInt:4:2:%InvalidInt:5:2
+14 August 2024 14:24 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: :InvalidDate:1:0:InvalidDate:2:0:InvalidDate:3:0:InvalidDate:4:0:InvalidDate:5:0InvalidInt:1:2:%InvalidInt:2:2:%InvalidInt:3:2:%InvalidInt:4:2:%InvalidInt:5:2
+14 August 2024 14:27 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: InvalidDate:1:0:%InvalidDate:2:0:%InvalidDate:3:0:%InvalidDate:4:0:%InvalidDate:5:0InvalidInt:1:2:%InvalidInt:2:2:%InvalidInt:3:2:%InvalidInt:4:2:%InvalidInt:5:2
+14 August 2024 14:29 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: InvalidDate:1:0:%:%InvalidDate:2:0:%:%InvalidDate:3:0:%:%InvalidDate:4:0:%:%InvalidDate:5:0:%InvalidInt:1:2:%:%InvalidInt:2:2:%:%InvalidInt:3:2:%:%InvalidInt:4:2:%:%InvalidInt:5:2:%
+14 August 2024 14:32 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: InvalidDate:1:0:%InvalidDate:2:0:%InvalidDate:3:0:%InvalidDate:4:0:%InvalidDate:5:0:%InvalidInt:1:2:%InvalidInt:2:2:%InvalidInt:3:2:%InvalidInt:4:2:%InvalidInt:5:2
+14 August 2024 14:36 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: InvalidDate:1:0:%InvalidDate:2:0:%InvalidDate:3:0:%InvalidDate:4:0:%InvalidDate:5:0:%InvalidInt:1:2:%InvalidInt:2:2:%InvalidInt:3:2:%InvalidInt:4:2:%InvalidInt:5:2
+14 August 2024 14:39 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: :%InvalidInt:1:2:%InvalidInt:2:2:%InvalidInt:3:2:%InvalidInt:4:2:%InvalidInt:5:2
+14 August 2024 14:47 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: :%InvalidInt:1:2:%InvalidInt:2:2:%InvalidInt:3:2:%InvalidInt:4:2:%InvalidInt:5:2
+14 August 2024 14:49 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: :%:%InvalidMoneyFloat:1:2:%InvalidMoneyFloat:2:2:%InvalidMoneyFloat:3:2:%InvalidMoneyFloat:4:2:%InvalidMoneyFloat:5:2
+14 August 2024 14:58 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: :%InvalidMoneyFloat:1:2:%InvalidMoneyFloat:2:2:%InvalidMoneyFloat:3:2:%InvalidMoneyFloat:4:2:%InvalidMoneyFloat:5:2
+14 August 2024 15:00 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: :%InvalidMoneyFloat:1:2:%InvalidMoneyFloat:2:2:%InvalidMoneyFloat:3:2:%InvalidMoneyFloat:4:2:%InvalidMoneyFloat:5:2
+14 August 2024 15:01 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: :%InvalidMoneyFloat:1:2:%InvalidMoneyFloat:2:2:%InvalidMoneyFloat:3:2:%InvalidMoneyFloat:4:2:%InvalidMoneyFloat:5:2
+14 August 2024 15:02 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: :%
+14 August 2024 15:04 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: :%
+14 August 2024 15:04 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: Valid Format
+14 August 2024 15:12 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: Valid Format
+14 August 2024 15:25 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: Valid Format
+14 August 2024 15:28 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: Valid Format
+14 August 2024 15:36 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: Valid Format
+14 August 2024 15:59 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: Valid Format
+14 August 2024 15:59 File Name: Weekly Admin Cost_8102024.xlsx File Results: InvalidMoneyFloat:1:2:%InvalidMoneyFloat:2:2:%InvalidMoneyFloat:3:2:%InvalidMoneyFloat:4:2:%InvalidMoneyFloat:5:2
+14 August 2024 16:02 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: Valid Format
+14 August 2024 16:11 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: Valid Format
+14 August 2024 16:16 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: InvalidDate:1:0:%InvalidDate:2:0:%InvalidDate:3:0:%InvalidDate:4:0:%InvalidDate:5:0InvalidMoneyFloat:1:2:%InvalidMoneyFloat:2:2:%InvalidMoneyFloat:3:2:%InvalidMoneyFloat:4:2:%InvalidMoneyFloat:5:2
+14 August 2024 16:19 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: InvalidDate:1:0:%InvalidDate:2:0:%InvalidDate:3:0:%InvalidDate:4:0:%InvalidDate:5:0:%InvalidMoneyFloat:1:2:%InvalidMoneyFloat:2:2:%InvalidMoneyFloat:3:2:%InvalidMoneyFloat:4:2:%InvalidMoneyFloat:5:2
+16 August 2024 04:26 File Name: Weekly Admin Cost_8102024.xlsx File Results: InvalidDate:1:2:%InvalidDate:2:2:%InvalidDate:3:2:%InvalidDate:4:2:%InvalidDate:5:2:%InvalidDate:1:3:%InvalidDate:2:3:%InvalidDate:3:3:%InvalidDate:4:3:%InvalidDate:5:3:%InvalidDate:1:4:%InvalidDate:2:4:%InvalidDate:3:4:%InvalidDate:4:4:%InvalidDate:5:4:%InvalidMoneyFloat:1:5:%InvalidMoneyFloat:2:5:%InvalidMoneyFloat:3:5:%InvalidMoneyFloat:4:5:%InvalidMoneyFloat:5:5
+16 August 2024 04:28 File Name: Weekly Admin Cost_8102024.xlsx File Results: InvalidDate:1:2:%InvalidDate:2:2:%InvalidDate:3:2:%InvalidDate:4:2:%InvalidDate:5:2:%InvalidDate:1:3:%InvalidDate:2:3:%InvalidDate:3:3:%InvalidDate:4:3:%InvalidDate:5:3:%InvalidDate:1:4:%InvalidDate:2:4:%InvalidDate:3:4:%InvalidDate:4:4:%InvalidDate:5:4:%InvalidMoneyFloat:1:5:%InvalidMoneyFloat:2:5:%InvalidMoneyFloat:3:5:%InvalidMoneyFloat:4:5:%InvalidMoneyFloat:5:5
+16 August 2024 04:33 File Name: Weekly Admin Cost_8102024.xlsx File Results: InvalidDate:1:2:%InvalidDate:2:2:%InvalidDate:3:2:%InvalidDate:4:2:%InvalidDate:5:2:%InvalidDate:1:3:%InvalidDate:2:3:%InvalidDate:3:3:%InvalidDate:4:3:%InvalidDate:5:3:%InvalidDate:1:4:%InvalidDate:2:4:%InvalidDate:3:4:%InvalidDate:4:4:%InvalidDate:5:4:%InvalidMoneyFloat:1:5:%InvalidMoneyFloat:2:5:%InvalidMoneyFloat:3:5:%InvalidMoneyFloat:4:5:%InvalidMoneyFloat:5:5
+16 August 2024 04:34 File Name: Weekly Admin Cost_8102024.xlsx File Results: InvalidDate:1:2:%InvalidDate:2:2:%InvalidDate:3:2:%InvalidDate:4:2:%InvalidDate:5:2:%InvalidDate:1:3:%InvalidDate:2:3:%InvalidDate:3:3:%InvalidDate:4:3:%InvalidDate:5:3:%InvalidDate:1:4:%InvalidDate:2:4:%InvalidDate:3:4:%InvalidDate:4:4:%InvalidDate:5:4:%InvalidMoneyFloat:1:5:%InvalidMoneyFloat:2:5:%InvalidMoneyFloat:3:5:%InvalidMoneyFloat:4:5:%InvalidMoneyFloat:5:5
+16 August 2024 04:37 File Name: Weekly Admin Cost_8102024.xlsx File Results: :%
+16 August 2024 04:47 File Name: Weekly Admin Cost_8102024.xlsx File Results: Valid Format
+16 August 2024 04:51 File Name: Weekly Admin Cost_8102024.xlsx File Results: Valid Format
+16 August 2024 04:56 File Name: Weekly Admin Cost_8102024.xlsx File Results: Valid Format
+16 August 2024 04:57 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: :%InvalidInt:1:2:%InvalidInt:2:2:%InvalidInt:3:2:%InvalidInt:4:2:%InvalidInt:5:2
+16 August 2024 05:00 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: Valid Format
+16 August 2024 05:01 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: InvalidDate:1:0:%InvalidDate:2:0:%InvalidDate:3:0:%InvalidDate:4:0:%InvalidDate:5:0:%InvalidMoneyFloat:1:2:%InvalidMoneyFloat:2:2:%InvalidMoneyFloat:3:2:%InvalidMoneyFloat:4:2:%InvalidMoneyFloat:5:2
+16 August 2024 09:19 File Name: Weekly Admin Cost_08142024 - Wrong.xlsx File Results: :%InvalidDate:1:3:%InvalidDate:2:3:%InvalidDate:3:3:%InvalidDate:4:3:%InvalidDate:5:3:%InvalidDate:1:4:%InvalidDate:2:4:%InvalidDate:3:4:%InvalidDate:4:4:%InvalidDate:5:4:%InvalidMoneyFloat:1:5:%InvalidMoneyFloat:2:5:%InvalidMoneyFloat:3:5:%InvalidMoneyFloat:4:5:%InvalidMoneyFloat:5:5
+16 August 2024 15:09 File Name: Weekly Admin Cost_08142024 - 2.xlsx File Results: InvalidInt:1:0:%InvalidInt:2:0:%InvalidInt:3:0:%InvalidInt:4:0:%InvalidInt:5:0:%InvalidDate:1:2:%InvalidDate:2:2:%InvalidDate:3:2:%InvalidDate:4:2:%InvalidDate:5:2:%InvalidDate:1:3:%InvalidDate:2:3:%InvalidDate:3:3:%InvalidDate:4:3:%InvalidDate:5:3:%InvalidDate:1:4:%InvalidDate:2:4:%InvalidDate:3:4:%InvalidDate:4:4:%InvalidDate:5:4:%InvalidMoneyFloat:1:5:%InvalidMoneyFloat:2:5:%InvalidMoneyFloat:3:5:%InvalidMoneyFloat:4:5:%InvalidMoneyFloat:5:5

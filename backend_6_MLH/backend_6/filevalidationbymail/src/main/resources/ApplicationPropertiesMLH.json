@@ -1,0 +1,41 @@
+{
+  "_id" : "ApplicationProperties",
+  "_common" : {
+    "ApplicationPropertiesMongoDB" : {
+      "ConnectionString" : "mongodb://localhost:27017",
+      "DatabaseName" : "FileValidation",
+      "CollectionName" : "Common"
+    }
+  },
+  "Toyota" : {
+    "OneDrive" : {
+      "onedrive.client-id" : "Secret",
+      "onedrive.client-secret" : "Secret",
+      "onedrive.redirect-uri" : "http://localhost:8080/login/oauth2/code/onedrive",
+      "onedrive.refresh-token" : "Secret",
+      "ZippedDirectory" : "C:\\Users\\daani\\Documents\\Vissat\\DirectExpenseDistributionProgramOutlineSteps1_10\\FileUploadValidation\\backend_5\\filevalidationbymail\\src\\main\\java\\db\\vissat\\filevalidationbymail\\Data\\Sharepoint\\Toyota.zip",
+      "onedrive.upload-path" : "/FileValidTest/Toyota.zip"
+    },
+    "Email" : {
+      "Host" : "imap.gmail.com",
+      "Email" : "babusita1800@gmail.com",
+      "Password" : "Secret",
+      "SubjectFilter" : "",
+      "ImapProtocol" : "imaps",
+      "SmtpHost" : "smtp.gmail.com",
+      "SmtpPort" : "587"
+    },
+    "Directory" : {
+      "ParentDirectoryStructure" : "Company",
+      "ParentDirectory" : ".\\filevalidationbymail\\src\\main\\java\\db\\vissat\\filevalidationbymail\\Data\\AllFiles\\Test\\",
+      "LogDirectory" : ".\\filevalidationbymail\\src\\main\\java\\db\\vissat\\filevalidationbymail\\Data\\AllLogs\\ToyotaLog.txt",
+      "FileFormatDirectory" : ".\\filevalidationbymail\\src\\main\\java\\db\\vissat\\filevalidationbymail\\Data\\FileFormats\\FileFormatToyota.json"
+    },
+    "MongoDB" : {
+      "OrganizationName" : "Toyota",
+      "ConnectionString" : "mongodb://localhost:27017",
+      "DatabaseName" : "FileValidation",
+      "CollectionName" : "Toyota"
+    }
+  }
+}

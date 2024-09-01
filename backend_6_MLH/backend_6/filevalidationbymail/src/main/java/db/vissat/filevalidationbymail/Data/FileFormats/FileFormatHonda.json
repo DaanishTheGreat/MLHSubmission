@@ -1,0 +1,72 @@
+{
+  "Expense" : {
+    "ExpenseFile" : {
+      "0" : {
+        "Type" : "Text",
+        "Title" : "Service Number"
+      },
+      "1" : {
+        "Type" : "Text",
+        "Title" : "Service Name"
+      },
+      "2" : {
+        "Type" : "StandardDate",
+        "Title" : "Service From Date"
+      },
+      "3" : {
+        "Type" : "StandardDate",
+        "Title" : "Service To Date"
+      },
+      "4" : {
+        "Type" : "Int",
+        "Title" : "Hours"
+      },
+      "5" : {
+        "Type" : "MoneyFloat",
+        "Title" : "Rate"
+      }
+    }
+  },
+  "FileNameHonda" : {
+    "FileSubtypeHonda" : {
+      "0" : {
+        "Type" : "number",
+        "Title" : "FieldName"
+      },
+      "UploadFrequency" : {
+        "FrequencyType" : "Weekly",
+        "FrequencyDetails" : "Tuesday",
+        "DateLastUploaded" : "07/25/2024",
+        "EmailInfo" : "daanish.bawan@vissatsolutions.com:daanishbawan@outlook.com"
+      }
+    }
+  },
+  "TestMonthFileName" : {
+    "FileSubtypeHondaTestMonth" : {
+      "0" : {
+        "Type" : "number",
+        "Title" : "FieldName"
+      },
+      "UploadFrequency" : {
+        "FrequencyType" : "Monthly",
+        "FrequencyDetails" : "5",
+        "DateLastUploaded" : "07/28/2024",
+        "EmailInfo" : "daanishbawan@outlook.com"
+      }
+    }
+  },
+  "FileNameInput" : {
+    "FileSubtypeHonda" : {
+      "0" : {
+        "Type" : "text",
+        "Title" : "FieldName"
+      },
+      "UploadFrequency" : {
+        "FrequencyType" : "Daily",
+        "FrequencyDetails" : "NA",
+        "DateLastUploaded" : "08/05/2024",
+        "EmailInfo" : "daanishbawan@outlook.com"
+      }
+    }
+  }
+}

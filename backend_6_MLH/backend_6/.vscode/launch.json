@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FilevalidationbymailApplication<filevalidationbymail>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "db.vissat.filevalidationbymail.FilevalidationbymailApplication",
+            "projectName": "filevalidationbymail",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

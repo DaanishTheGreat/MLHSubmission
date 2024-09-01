@@ -1,0 +1,43 @@
+13 June 2024 14:35 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+13 June 2024 14:35 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+14 June 2024 09:18 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+14 June 2024 09:18 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+14 June 2024 09:18 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+15 June 2024 14:46 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+15 June 2024 14:46 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+17 June 2024 13:20 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: Valid Format
+17 June 2024 13:23 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+17 June 2024 13:23 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+18 June 2024 15:45 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+18 June 2024 15:45 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+24 June 2024 11:16 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+24 June 2024 11:16 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+24 June 2024 11:17 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+24 June 2024 11:17 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+24 June 2024 11:18 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+24 June 2024 13:36 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+24 June 2024 13:36 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+25 June 2024 13:54 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+25 June 2024 13:54 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+25 June 2024 13:57 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+25 June 2024 13:57 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+25 June 2024 13:57 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+27 June 2024 11:10 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+27 June 2024 11:10 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+27 June 2024 11:42 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+27 June 2024 11:42 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+27 June 2024 11:44 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+27 June 2024 11:44 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+27 June 2024 11:52 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+27 June 2024 11:52 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+27 June 2024 11:59 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+27 June 2024 11:59 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+27 June 2024 12:02 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+27 June 2024 12:02 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+27 June 2024 12:04 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+27 June 2024 12:04 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+27 June 2024 12:10 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+27 June 2024 12:10 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+27 June 2024 12:28 File Name: travel-org-repair-expenses-mar-2024.xlsx.xlsx File Results: :InvalidDate:1:2:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
+27 June 2024 12:28 File Name: travel-org-repair-cost.xlsx File Results: Valid Format
+08 July 2024 00:49 File Name: travel-org-repair-expenses-mar-2024.csv File Results: :InvalidDate:1:2:InvalidDate:2:2:InvalidDate:3:2:InvalidDate:4:2:InvalidDate:5:2:InvalidDate:6:2:InvalidDate:1:3:InvalidDate:2:3:InvalidDate:3:3:InvalidDate:4:3:InvalidDate:5:3:InvalidDate:6:3:InvalidInt:6:4:InvalidMoneyFloat:1:5:InvalidMoneyFloat:6:5
